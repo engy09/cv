@@ -1,0 +1,33 @@
+body{
+  background-color: #EAF6F6;
+  
+}
+
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h2:hover{
+  color:  #7743DB;
+}
+/*
+h3{
+  color: #66BFBF;
+}
+*/
+.pink{
+  color: #E97777;
+}
+
+.violet{
+  color: #7743DB;
+}
